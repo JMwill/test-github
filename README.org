@@ -9,6 +9,6 @@ use to test github's power
 
 测试下通过另一个 ssh-key 提交来
 
-----
+-----
 
-只用四根横线看看上面有没有分隔线
+最少需要五根横线才能在 org file 上显示分隔线
